@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.ajar:swagger-spring-mvc-ui:0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ajar/swagger-spring-mvc-ui/0.2/swagger-spring-mvc-ui-0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ajar/swagger-spring-mvc-ui/0.2/swagger-spring-mvc-ui-0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ajar/swagger-spring-mvc-ui/0.2/swagger-spring-mvc-ui-0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
