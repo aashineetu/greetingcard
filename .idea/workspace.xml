@@ -55,11 +55,6 @@
               <item name="greetingcard" type="b2602c69:ProjectViewProjectNode" />
               <item name="greetingcard" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="greetingcard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="greetingcard" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
