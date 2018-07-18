@@ -9,8 +9,5 @@
         <module name="greetingcard" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="greetingcard" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
