@@ -1,6 +1,6 @@
 .classpath
 .project
 .settings/
-src/main/java/dummy/**/dummy2/  
+dummy2/*
 target
 target/*
